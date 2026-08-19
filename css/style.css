@@ -166,7 +166,7 @@ a {
 }
 
 .article-header {
-    padding: 90px 0 45px;
+    padding: 10px 0 10px;
     max-width: 900px;
 }
 
@@ -187,7 +187,7 @@ a {
 }
 
 .article-body p {
-    font-family: Georgia, "Times New Roman", serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
     line-height: 1.8;
 }
@@ -195,6 +195,10 @@ a {
 .article-body h2 {
     margin-top: 50px;
     font-size: 30px;
+}
+
+.article-image i {
+    max-width: 720px;
 }
 
 .site-footer {
