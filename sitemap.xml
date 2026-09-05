@@ -2,10 +2,12 @@
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+    <!-- Homepage -->
     <url>
         <loc>https://newsfromtheweb.it/</loc>
     </url>
 
+    <!-- Pagine principali -->
     <url>
         <loc>https://newsfromtheweb.it/articoli.html</loc>
     </url>
@@ -18,12 +20,127 @@
         <loc>https://newsfromtheweb.it/contatti.html</loc>
     </url>
 
+    <!-- Articoli -->
+
+    <url>
+        <loc>https://newsfromtheweb.it/articoli/2001.html</loc>
+    </url>
     <url>
         <loc>https://newsfromtheweb.it/articoli/2002.html</loc>
     </url>
+    <url>
+        <loc>https://newsfromtheweb.it/articoli/2003.html</loc>
+    </url>
+    <url>
+        <loc>https://newsfromtheweb.it/articoli/2004.html</loc>
+    </url>
+    <url>
+        <loc>https://newsfromtheweb.it/articoli/2005.html</loc>
+    </url>
+    <url>
+        <loc>https://newsfromtheweb.it/articoli/2006.html</loc>
+    </url>
+    <url>
+        <loc>https://newsfromtheweb.it/articoli/2007.html</loc>
+    </url>
+    <url>
+        <loc>https://newsfromtheweb.it/articoli/2008.html</loc>
+    </url>
+    <url>
+        <loc>https://newsfromtheweb.it/articoli/2009.html</loc>
+    </url>
+    <url>
+        <loc>https://newsfromtheweb.it/articoli/2010.html</loc>
+    </url>
 
+    <url>
+        <loc>https://newsfromtheweb.it/articoli/2201.html</loc>
+    </url>
+    <url>
+        <loc>https://newsfromtheweb.it/articoli/2202.html</loc>
+    </url>
+    <url>
+        <loc>https://newsfromtheweb.it/articoli/2203.html</loc>
+    </url>
+    <url>
+        <loc>https://newsfromtheweb.it/articoli/2204.html</loc>
+    </url>
     <url>
         <loc>https://newsfromtheweb.it/articoli/2205.html</loc>
     </url>
+    <url>
+        <loc>https://newsfromtheweb.it/articoli/2206.html</loc>
+    </url>
+    <url>
+        <loc>https://newsfromtheweb.it/articoli/2207.html</loc>
+    </url>
+    <url>
+        <loc>https://newsfromtheweb.it/articoli/2208.html</loc>
+    </url>
+    <url>
+        <loc>https://newsfromtheweb.it/articoli/2209.html</loc>
+    </url>
+    <url>
+        <loc>https://newsfromtheweb.it/articoli/2210.html</loc>
+    </url>
+    <url>
+        <loc>https://newsfromtheweb.it/articoli/2211.html</loc>
+    </url>
+    <url>
+        <loc>https://newsfromtheweb.it/articoli/2212.html</loc>
+    </url>
+    <url>
+        <loc>https://newsfromtheweb.it/articoli/2213.html</loc>
+    </url>
+    <url>
+        <loc>https://newsfromtheweb.it/articoli/2214.html</loc>
+    </url>
+    <url>
+        <loc>https://newsfromtheweb.it/articoli/2215.html</loc>
+    </url>
+    <url>
+        <loc>https://newsfromtheweb.it/articoli/2216.html</loc>
+    </url>
+
+    <url>
+        <loc>https://newsfromtheweb.it/articoli/2301.html</loc>
+    </url>
+    <url>
+        <loc>https://newsfromtheweb.it/articoli/2302.html</loc>
+    </url>
+    <url>
+        <loc>https://newsfromtheweb.it/articoli/2303.html</loc>
+    </url>
+    <url>
+        <loc>https://newsfromtheweb.it/articoli/2304.html</loc>
+    </url>
+    <url>
+        <loc>https://newsfromtheweb.it/articoli/2305.html</loc>
+    </url>
+
+    <url>
+        <loc>https://newsfromtheweb.it/articoli/2401.html</loc>
+    </url>
+    <url>
+        <loc>https://newsfromtheweb.it/articoli/2402.html</loc>
+    </url>
+    <url>
+        <loc>https://newsfromtheweb.it/articoli/2403.html</loc>
+    </url>
+
+    <url>
+        <loc>https://newsfromtheweb.it/articoli/2501.html</loc>
+    </url>
+    <url>
+        <loc>https://newsfromtheweb.it/articoli/2502.html</loc>
+    </url>
+    <url>
+        <loc>https://newsfromtheweb.it/articoli/2503.html</loc>
+    </url>
+
+    <url>
+        <loc>https://newsfromtheweb.it/articoli/benvenuti.html</loc>
+    </url>
+
 
 </urlset>
