@@ -209,12 +209,12 @@ a {
     font-size: 30px;
 }
 
-.article-image i {
+.article-image {
     max-width: 720px;
     width: 100%;
     height: auto;
     display: block;
-    margin: 20px 0;
+    margin: 10px 0;
 }
 
 .site-footer {
