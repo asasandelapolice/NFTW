@@ -326,3 +326,11 @@ a {
     margin: 0;
     font-size: 0.95rem;
 }
+
+.article-ps a {
+    color: #171717;
+    font-weight: 600;
+    text-decoration: none;
+    border-bottom: 1px solid #aaa;
+    transition: border-color 0.2s ease;
+}
