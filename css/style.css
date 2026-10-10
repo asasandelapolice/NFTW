@@ -185,7 +185,7 @@ a {
 
 .article-body {
     max-width: 900px;
-    padding-bottom: 100px;
+    padding-bottom: 10px;
 }
 
 .article-body p {
@@ -290,7 +290,8 @@ a {
     align-items: flex-start;
     gap: 12px;
 
-    margin-top: 32px;
+    margin-top: 0px;
+    margin-bottom: 50px;
     padding: 18px 20px;
 
     background-color: #f5f5f5;
