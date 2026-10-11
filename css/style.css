@@ -342,6 +342,7 @@ a {
 .article-banner {
     width: 100%;
     box-sizing: border-box;
+    border-bottom-width: 20px;
     background-color: #e53935;
     color: #FFFFFF;
     padding: 12px 20px;
