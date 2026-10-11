@@ -168,7 +168,7 @@ a {
 }
 
 .article-header {
-    padding: 10px 0 10px;
+    padding: 10px 0 1px;
     max-width: 900px;
 }
 
@@ -352,6 +352,7 @@ a {
 /* Testo della fascetta */
 .article-banner p {
     margin: 0;
+    border-bottom-width: 20px !important;
     font-size: 13px;
     font-weight: 500;
     line-height: 1.5;
