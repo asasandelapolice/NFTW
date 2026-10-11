@@ -342,6 +342,7 @@ a {
 .article-banner {
     width: 100%;
     box-sizing: border-box;
+    border-bottom-style: solid !important;
     border-bottom-width: 20px !important;
     background-color: #e53935;
     color: #FFFFFF;
@@ -352,7 +353,6 @@ a {
 /* Testo della fascetta */
 .article-banner p {
     margin: 0;
-    border-bottom-width: 20px !important;
     font-size: 13px;
     font-weight: 500;
     line-height: 1.5;
